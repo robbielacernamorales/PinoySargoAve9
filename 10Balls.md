@@ -2,21 +2,6 @@
 
 Welcome to the **Billiards Rules & Regulations** repository! This document serves as a comprehensive guide to the rules and gameplay mechanics of various billiards games.
 
-## 📖 Table of Contents
-- [Introduction](#introduction)
-- [General Rules](#general-rules)
-- [Popular Variants](#popular-variants)
-  - [Eight-Ball](#eight-ball)
-  - [Nine-Ball](#nine-ball)
-  - [Ten-Ball](#ten-ball)
-  - [Straight Pool](#straight-pool)
-  - [Snooker](#snooker)
-- [Fouls & Penalties](#fouls--penalties)
-- [Winning Conditions](#winning-conditions)
-- [FAQs](#faqs)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🎯 Introduction
 Billiards, also known as cue sports, is a collection of games played on a table with balls and a cue stick. The objective and rules vary depending on the variant being played. This guide will outline the fundamental rules and different game types.
 
@@ -50,17 +35,3 @@ Billiards, also known as cue sports, is a collection of games played on a table 
 2. **10 Ball on the Break:** If the 10-ball is pocketed on the break, the breaker wins the game. (Not applicable to handicap balls.)
 3. **10 Ball in Combination:** If the 10-ball is pocketed in combination with the lowest-numbered ball, the player wins the game. (Same rule applies to handicap balls.)
 4. **Three Consecutive Fouls:** If a player commits three consecutive fouls, they lose the game.
-
-## ❓ FAQs
-**Q: What happens if I pocket the 8-ball too early?**
-A: If the 8-ball is pocketed before all other designated balls, the player loses the game.
-
-**Q: Can I use jump shots?**
-A: Jump shots are legal in some formats but may be restricted in others.
-
-## 🤝 Contributing
-Feel free to submit improvements or corrections by creating an issue or pull request.
-
-## 📜 License
-This repository follows the [MIT License](LICENSE).
-
