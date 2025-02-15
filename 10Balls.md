@@ -1,6 +1,6 @@
 # 🎱 Billiards Rules & Regulations
 
-Welcome to the **Billiards Rules & Regulations** repository! This document serves as a comprehensive guide to the rules and gameplay mechanics of various billiards games.
+Welcome to the **Pinoy Sargo Ave 9 - 10 Balls Billiards Rules & Regulations** This document serves as a comprehensive guide to the rules and gameplay mechanics of various billiards games.
 
 ## 🎯 Introduction
 Billiards, also known as cue sports, is a collection of games played on a table with balls and a cue stick. The objective and rules vary depending on the variant being played. This guide will outline the fundamental rules and different game types.
