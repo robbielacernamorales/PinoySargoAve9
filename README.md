@@ -1,111 +1,66 @@
-# PinoySargoAve9
-Pinoy Sargo Avenue 9
-🎱 Billiards Rules & Regulations
+# 🎱 Billiards Rules & Regulations
 
-Welcome to the Billiards Rules & Regulations repository! This document serves as a comprehensive guide to the rules and gameplay mechanics of various billiards games.
+Welcome to the **Billiards Rules & Regulations** repository! This document serves as a comprehensive guide to the rules and gameplay mechanics of various billiards games.
 
-📖 Table of Contents
+## 📖 Table of Contents
+- [Introduction](#introduction)
+- [General Rules](#general-rules)
+- [Popular Variants](#popular-variants)
+  - [Eight-Ball](#eight-ball)
+  - [Nine-Ball](#nine-ball)
+  - [Ten-Ball](#ten-ball)
+  - [Straight Pool](#straight-pool)
+  - [Snooker](#snooker)
+- [Fouls & Penalties](#fouls--penalties)
+- [Winning Conditions](#winning-conditions)
+- [FAQs](#faqs)
+- [Contributing](#contributing)
+- [License](#license)
 
-Introduction
-
-General Rules
-
-Popular Variants
-
-Eight-Ball
-
-Nine-Ball
-
-Straight Pool
-
-Snooker
-
-Fouls & Penalties
-
-Winning Conditions
-
-FAQs
-
-Contributing
-
-License
-
-🎯 Introduction
-
+## 🎯 Introduction
 Billiards, also known as cue sports, is a collection of games played on a table with balls and a cue stick. The objective and rules vary depending on the variant being played. This guide will outline the fundamental rules and different game types.
 
-📜 General Rules
+## 📜 General Rules
+1. The game is played with 10 balls.
+2. The game is played on a standard pool table with 6 pockets.
+3. The objective of the game is to pocket the 10-ball to win.
 
-The game is played on a rectangular table with six pockets.
+## 🔄 Breaking (Alternate Break Format)
+1. The game starts with a break shot, where one player breaks the rack of the 10 balls.
+2. The breaker must contact the lowest-numbered ball first and attempt to contact the rack.
+3. If the breaker pockets a ball on the break, they continue to shoot.
+4. If the breaker commits a foul on the break, their opponent gets ball-in-hand.
 
-Players take turns striking the cue ball to hit object balls.
+## 🎯 Shooting (Call Shots)
+1. Player calls each shot.
+2. Each shot must contact the lowest-numbered ball first.
+3. If a player pockets a ball, they continue to shoot.
+4. If a player commits a foul, their opponent gets ball-in-hand.
 
-A legal shot requires at least one object ball to be contacted.
+## ⚠️ Fouls
+1. If a player commits a foul, their opponent gets ball-in-hand.
+2. Common fouls include:
+   - Pocketing the cue ball.
+   - Scratching (hitting the cue ball off the table).
+   - Not contacting the lowest-numbered ball first.
+   - Pocketing a ball out of turn.
 
-Fouls result in a penalty or loss of turn.
+## 🏆 Winning the Game
+1. The game is won when a player pockets the 10-ball or handicap ball.
+2. **10 Ball on the Break:** If the 10-ball is pocketed on the break, the breaker wins the game. (Not applicable to handicap balls.)
+3. **10 Ball in Combination:** If the 10-ball is pocketed in combination with the lowest-numbered ball, the player wins the game. (Same rule applies to handicap balls.)
+4. **Three Consecutive Fouls:** If a player commits three consecutive fouls, they lose the game.
 
-The winner is determined by the specific game’s rules.
-
-🎱 Popular Variants
-
-Eight-Ball
-
-Played with 15 object balls (stripes and solids) and a cue ball.
-
-Players claim a group (stripes or solids) after pocketing the first ball.
-
-The 8-ball must be pocketed last to win.
-
-Nine-Ball
-
-Played with balls numbered 1 through 9.
-
-Players must hit the lowest-numbered ball first.
-
-The player who legally pockets the 9-ball wins the game.
-
-Straight Pool
-
-Players score points by pocketing any ball on the table.
-
-The first player to reach a predetermined point total wins.
-
-Snooker
-
-Played with 15 red balls and six colored balls.
-
-Players alternate potting red and colored balls for points.
-
-The game ends when all balls are legally pocketed.
-
-⚠️ Fouls & Penalties
-
-Failing to hit a legal object ball.
-
-Pocketing the cue ball (scratch).
-
-Not hitting a rail after contact.
-
-Shooting out of turn.
-
-🏆 Winning Conditions
-
-The game is won according to the specific variant’s objective.
-
-In tournament play, a match may consist of multiple frames.
-
-❓ FAQs
-
-Q: What happens if I pocket the 8-ball too early?
+## ❓ FAQs
+**Q: What happens if I pocket the 8-ball too early?**
 A: If the 8-ball is pocketed before all other designated balls, the player loses the game.
 
-Q: Can I use jump shots?
+**Q: Can I use jump shots?**
 A: Jump shots are legal in some formats but may be restricted in others.
 
-🤝 Contributing
-
+## 🤝 Contributing
 Feel free to submit improvements or corrections by creating an issue or pull request.
 
-📜 License
+## 📜 License
+This repository follows the [MIT License](LICENSE).
 
-This repository follows the MIT License.
